@@ -1,4 +1,8 @@
+
+# Editors
 /.idea/
+/.vscode/
+
 /.log/
 /.nyc_output/
 /coverage/
